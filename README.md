@@ -1,10 +1,6 @@
-# Vertical Heavy Chain
+# Relativity for non-physicists
 
-Derivation of the differential equation, the transverse normal modes, and their frequencies, for a heavy chain hanging vertically. Originally written on June 17, 1995.
-
-![](1st_four_modes.png)
-
-First 4 transverse normal modes.
+An essay about light, the appearance of objects, and the theory of relativity, for non-physicists. Originally written on March 23, 2014.
 
 ## Creator
 
