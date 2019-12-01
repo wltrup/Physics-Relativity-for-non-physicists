@@ -1,6 +1,10 @@
 # Relativity for non-physicists
 
-An essay about light, the appearance of objects, and the theory of relativity, for non-physicists. Originally written on March 23, 2014.
+An essay about light, the appearance of objects, and the theory of relativity, for non-physicists.
+
+The goal for this project is to turn it into a book on the theory of relativity, for non-physicists, and it's still work in progress.
+
+Originally written on March 23, 2014.
 
 ## Creator
 
